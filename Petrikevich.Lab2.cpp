@@ -1,4 +1,4 @@
-//№3
+//№5
 #include <iostream>
 #include <math.h>
 
